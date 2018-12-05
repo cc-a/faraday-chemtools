@@ -1,72 +1,79 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+@title[Title Slide]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+Faraday Division Chemistry Software Tools Meeting<br>*Modern Software Engineering for Physical Chemists: Writing Sustainable Software*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+Dr. Christopher Cave-Ayland<br>
+12/12/2018
 @snapend
 
 ---
-@title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
-<br><br>
+---?include=presentation/introduction/PITCHME.md
+---?include=presentation/tools/PITCHME.md
+---?include=presentation/resources/PITCHME.md
 
 
----
-@title[Tip! Fullscreen]
+<!-- @title[Slide Markdown] -->
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+<!-- ### Each slide in this presentation is provided as a *template*. -->
 
----?include=template/md/split-screen/PITCHME.md
+<!-- <br><br> -->
 
----?include=template/md/sidebar/PITCHME.md
+<!-- 1. Select only the slide templates that you need. -->
+<!-- 1. Customize the template _markdown content_. -->
+<!-- 1. Optionally, override template _styles_ and _settings_. -->
+<!-- 1. Then present and publish with GitPitch @fa[smile-o] -->
+<!-- <br><br> -->
 
----?include=template/md/list-content/PITCHME.md
 
----?include=template/md/boxed-text/PITCHME.md
+<!-- --- -->
+<!-- @title[Tip! Fullscreen] -->
 
----?include=template/md/image/PITCHME.md
+<!-- ![TIP](template/img/tip.png) -->
+<!-- <br> -->
+<!-- For the best viewing experience, press F for fullscreen. -->
+<!-- @css[template-note](We recommend using the *SPACE* key to navigate between slides.) -->
 
----?include=template/md/sidebox/PITCHME.md
+<!-- ---?include=template/md/split-screen/PITCHME.md -->
 
----?include=template/md/code-presenting/PITCHME.md
+<!-- ---?include=template/md/sidebar/PITCHME.md -->
 
----?include=template/md/header-footer/PITCHME.md
+<!-- ---?include=template/md/list-content/PITCHME.md -->
 
----?include=template/md/quotation/PITCHME.md
+<!-- ---?include=template/md/boxed-text/PITCHME.md -->
 
----?include=template/md/announcement/PITCHME.md
+<!-- ---?include=template/md/image/PITCHME.md -->
 
----?include=template/md/about/PITCHME.md
+<!-- ---?include=template/md/sidebox/PITCHME.md -->
 
----?include=template/md/wrap-up/PITCHME.md
+<!-- ---?include=template/md/code-presenting/PITCHME.md -->
 
----
-@title[The Template Docs]
+<!-- ---?include=template/md/header-footer/PITCHME.md -->
 
-@snap[west span-100]
-### **Now it's @color[#E49436](your) turn.**
+<!-- ---?include=template/md/quotation/PITCHME.md -->
 
-<br>
+<!-- ---?include=template/md/announcement/PITCHME.md -->
 
-#### Use these templates to create custom slides.
-#### **Then amaze your audience with a Git@color[#E49436](Pitch) slideshow @fa[smile-o]**
-@snapend
+<!-- ---?include=template/md/about/PITCHME.md -->
 
-@snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
+<!-- ---?include=template/md/wrap-up/PITCHME.md -->
+
+<!-- --- -->
+<!-- @title[The Template Docs] -->
+
+<!-- @snap[west span-100] -->
+<!-- ### **Now it's @color[#E49436](your) turn.** -->
+
+<!-- <br> -->
+
+<!-- #### Use these templates to create custom slides. -->
+<!-- #### **Then amaze your audience with a Git@color[#E49436](Pitch) slideshow @fa[smile-o]** -->
+<!-- @snapend -->
+
+<!-- @snap[south docslink span-100] -->
+<!-- For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template) -->
+<!-- @snapend -->
