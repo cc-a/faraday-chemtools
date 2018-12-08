@@ -13,7 +13,7 @@ The essential tools of software engineering
 @title[Version Control]
 
 @snap[west span-45]
-![PhD Comics]http://phdcomics.com/comics/archive/phd101212s.gif)
+![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif)
 @snapend
 * Track the changes you make to you work - reproducibility
 * Share and collaborate easily
