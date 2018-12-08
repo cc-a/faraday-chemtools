@@ -16,7 +16,7 @@ The essential tools of software engineering
 Version Control
 @snapend
 
-@snap[west span-38]
+@snap[west span-32]
 ![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif)
 @snapend
 
