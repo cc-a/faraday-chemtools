@@ -16,15 +16,15 @@ When it all goes wrong
 @snapend
 
 @snap[west span-35]
-![Excel](images/excel.png)
+![Excel](presentation/introduction/images/excel.png)
 @snapend
 
 @snap[east span-35]
-![Chang](images/chang.png)
+![Chang](presentation/introduction/images/chang.png)
 @snapend
 
 @snap[south span-30]
-![Plos](images/plos.png)
+![Plos](presentation/introduction/images/plos.png)
 @snapend
 
 ---
