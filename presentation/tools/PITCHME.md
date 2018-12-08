@@ -18,7 +18,7 @@ Version Control
 
 @snap[west span-32]
 <!-- ![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif) -->
-<img src="https://github.com/favicon.ico" width="5em">
+<img src="http://phdcomics.com/comics/archive/phd101212s.gif" width="5em">
 @snapend
 
 @snap[east span-45]
