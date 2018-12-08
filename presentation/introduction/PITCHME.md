@@ -1,5 +1,24 @@
+@title[Introduction]
 
-@title[Data Processing is Important]
+@snap[north span-80]
+
+@snapend
+
+@snap[midpoint span-80]
+@css[headline](Digital information lasts forever... or five years, whichever comes first.)<br>
+Jeff Rothenberg
+@snapend
+
+---
+
+@snap[south snap-80]
+Software engineering is the treatment (not the cure)<br>
+
+@snapend
+
+---
+
+<!-- @title[Data Processing is Important] -->
 
 @snap[north span-80]
 Modelling or Data Processing<br>It's all Important
@@ -29,7 +48,7 @@ When it all goes wrong
 
 ---
 
-@title[Scripts>Spreadsheets]
+<!-- @title[Scripts>Spreadsheets] -->
 
 * OK (just) for simple 2D data, rubbish for everything else, poor interoperability
 * Coding gives you control + access to enormous quantity of libraries/prior work
