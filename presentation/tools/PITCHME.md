@@ -16,16 +16,16 @@ The essential tools of software engineering
 Version Control
 @snapend
 
-@snap[west span-45]
+@snap[west span-30]
 ![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif)
 @snapend
 
 @snap[east span-45]
-* Reproducibility
-  * Track what changes you make to your work and when
-  * Easily move back to previous versions
-* Share and collaborate
-  * Work on separate 'branches' then automatically combine the different versions
+- Reproducibility
+  - Track what changes you make to your work and when
+  - Easily move back to previous versions
+- Share and collaborate
+  - Work on separate 'branches' then automatically combine the different versions
 @snapend
 
 ---
@@ -34,7 +34,7 @@ Version Control
 Working Online
 @snapend
 
-@snap[midpoint span-40]
+@snap[midpoint span-30]
  ![Github](https://studyguide.itu.dk/~/media/studyguide/student-life/facilities-at-itu/it-facilities/github/github_logo.png?h=248&w=573&la=en)  
  ![Bitbucket](https://d301sr5gafysq2.cloudfront.net/6beed0228b70/img/logos/bitbucket/bitbucket-attribution-blue.svg)  
  ![Gitlab](https://cdn-images-1.medium.com/max/2000/1*A4gQU4Mtnz0YVNrl8pCwXg.png)
@@ -52,11 +52,11 @@ Presentations (including this one)
 Project Management Tools
 @snapend
 
-@snap[southwest span-30]
+@snap[south-west span-30]
 Testing
 @snapend
 
-@snap[southeast span-30]
+@snap[south-east span-30]
 Documentation
 @snapend
 
