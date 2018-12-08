@@ -16,12 +16,12 @@ The essential tools of software engineering
 Version Control
 @snapend
 
-@snap[west split-screen-img]
+@snap[south-west split-screen-img]
 ![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif)
 <!-- <img src="http://phdcomics.com/comics/archive/phd101212s.gif" width="400px"> -->
 @snapend
 
-@snap[east split-screen-list]
+@snap[east split-screen-text]
 @ul[](false)
 - Reproducibility
   - Track what changes you make to your work and when

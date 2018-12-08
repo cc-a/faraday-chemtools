@@ -10,6 +10,8 @@
   font-size: 0.6em !important;
 }
 
+
+
 /* Split-Screen Template Styles */
 
 .split-screen-heading {
@@ -19,11 +21,11 @@
 
 .split-screen-byline {
   width: 35%;
-  font-size: 1.1em !important;
+  ofont-size: 1.1em !important;
 }
 
 .split-screen-text {
-  width: 30%;
+  width: 55%;
   text-align: center;
   font-size: 0.8em !important;
 }
