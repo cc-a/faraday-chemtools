@@ -16,16 +16,18 @@ The essential tools of software engineering
 Version Control
 @snapend
 
-@snap[west span-30]
+@snap[west span-38]
 ![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif)
 @snapend
 
 @snap[east span-45]
+@ul[](false)
 - Reproducibility
   - Track what changes you make to your work and when
   - Easily move back to previous versions
 - Share and collaborate
   - Work on separate 'branches' then automatically combine the different versions
+@ulend
 @snapend
 
 ---
