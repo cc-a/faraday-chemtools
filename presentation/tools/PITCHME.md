@@ -18,10 +18,10 @@ Version Control
 
 @snap[west span-32]
 <!-- ![PhD Comics](http://phdcomics.com/comics/archive/phd101212s.gif) -->
-<img src="http://phdcomics.com/comics/archive/phd101212s.gif" width="200px">
+<img src="http://phdcomics.com/comics/archive/phd101212s.gif" width="400px">
 @snapend
 
-@snap[east span-45]
+@snap[east span-55]
 @ul[](false)
 - Reproducibility
   - Track what changes you make to your work and when
