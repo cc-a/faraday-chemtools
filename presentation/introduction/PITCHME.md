@@ -11,11 +11,11 @@ Jeff Rothenberg
 
 ---
 
-@snap[north]
+@snap[north span-100]
 @size[1em](When surveyed 91% of scientists said that that using scientific software is important or very important for their own research)
 @snapend
 
-@snap[midpoint]
+@snap[midpoint span-100]
 @size[1em](84% stated that developing scientific software is important or very important for their own research<sup>1</sup>)
 @snapend
 
