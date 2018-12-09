@@ -112,7 +112,7 @@ Unit tests
   * test_outputs = 0, 1, 2
   * for input, output in test_inputs, test_outputs:
     * assert output == calculate_mass(input)
-@ul
+@ulend
 @snapend
 
 ---
@@ -127,6 +127,7 @@ Integrated Development Environments
 * Integration with Version Control and Testing
 
 ---
+
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
 @snapend
@@ -142,10 +143,10 @@ Code Completion
 @size[1.2em](Boost productivity and Avoid Mistakes)
 @snapend
 
-<!-- @snap[south under-title] -->
+@snap[south under-title]
 Code Linting  
-![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
-<!-- @snapend -->
+![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/eslint_warning.png)
+@snapend
 
 ---
 
