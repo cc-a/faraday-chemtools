@@ -134,7 +134,6 @@ Integrated Development Environments
 
 @snap[south under-title]
 Code Completion<br>
-
 ![Autocomplete](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
 @snapend
 
@@ -146,8 +145,18 @@ Code Completion<br>
 
 @snap[south under-title]
 Code Linting<br>
-
 ![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/eslint_warning.png)
+@snapend
+
+---
+
+@snap[north span-100]
+@size[1.2em](Boost productivity and Avoid Mistakes)
+@snapend
+
+@snap[south under-title]
+Integrated Testing<br>
+![Linting](https://www.jetbrains.com/ruby/features/screenshots/testing/testing_ui@2x.png)
 @snapend
 
 ---
