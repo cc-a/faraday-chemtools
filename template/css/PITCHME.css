@@ -22,9 +22,18 @@
     height: 80%;
     text-align: left;
     font-size: 1em !important;
+    padding-bottom: 1em;
 }
 
+.under-title img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.image-bullets img {
+    width: 20%;
+}
 /* Split-Screen Template Styles */
 
 .split-screen-heading {
