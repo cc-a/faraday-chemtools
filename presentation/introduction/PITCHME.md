@@ -11,19 +11,32 @@ Jeff Rothenberg
 
 ---
 
-@snap[midpoint span-90]
+@snap[north under-title]
 When surveyed 91% of scientists said that that using scientific software is important or very important for their own research  
-84% stated that developing scientific software is important or very important for their own research
-@snapend<sup>1</sup>
+84% stated that developing scientific software is important or very important for their own research<sup>1</sup>
+@snapend
 
-@snap[south byline]
+@snap[south byline span-100]
 1. J.E. Hannay et al., How Do Scientists Develop and Use Scientific Software?, Proc. ICSE Workshop Software Eng. for Computational Science and Eng., 2009, pp. 1-8
 @snapend
 
 ---
 
+@snap[west headline]
+Reproducibility
+@snapend
+
+@snap[east headline]
+Sustainability
+@snapend
+
+@snap[north headline]
+Correctness
+@snapend
+
 @snap[snap-80]
-Software engineering is the treatment (not the cure)
+Good software engineering is required for all of the above<br>
+(not just good coding)
 @snapend
 
 ---
@@ -58,8 +71,17 @@ Modelling or Data Processing<br>It's all Important
 
 ---
 
-<!-- @title[Scripts>Spreadsheets] -->
+@title[Scripts>Spreadsheets]
 
-* OK (just) for simple 2D data, rubbish for everything else, poor interoperability
-* Coding gives you control + access to enormous quantity of libraries/prior work
-* Ability to write modular pieces that can be combined into workflows.
+@snap[north]
+@size[1.5em](Programming > Spreadsheets)
+@snapend
+
+@snap[south under-title]
+@ul[](false)
+- OK (just) for simple 2D data
+- Static and isolated, difficult to combine into larger workflows/programs
+- Coding gives you flexibility + access to enormous quantity of libraries/prior work
+- https://www.software.ac.uk/blog/2017-09-06-journey-reproducibility-excel-pandas
+@ulend
+@snapend
