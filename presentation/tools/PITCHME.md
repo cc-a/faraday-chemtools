@@ -90,14 +90,12 @@ Runtime tests
 - "Sanity checks" - make sure things are internally consistent
 - Check inputs as well as code
 @ulend
-@snapend
 
-@snap[south-west two-cols code-region]
-@ul[](false)
+@ul[code-region](false)
 * function calculate_mass(weight):
   * mass = weight / 9.81
   * if mass < 0:
-    *Error - cannot have negative mass
+    * Error - cannot have negative mass
   * return mass
 @ulend
 @snapend
