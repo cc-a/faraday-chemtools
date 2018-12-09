@@ -55,6 +55,10 @@
 
 /* List-Content Template Styles */
 
+.code-region li {
+    list-style-type: none;
+}
+
 .list-content-concise li {
   font-size: 1em;
   margin:0 0 10px 0;
