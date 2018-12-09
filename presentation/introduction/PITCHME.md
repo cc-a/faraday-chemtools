@@ -11,9 +11,12 @@ Jeff Rothenberg
 
 ---
 
-@snap[north under-title]
-When surveyed 91% of scientists said that that using scientific software is important or very important for their own research  
-84% stated that developing scientific software is important or very important for their own research<sup>1</sup>
+@snap[north]
+\size[1em](When surveyed 91% of scientists said that that using scientific software is important or very important for their own research)
+@snapend
+
+@snap[midpoint]
+\size[1em](84% stated that developing scientific software is important or very important for their own research<sup>1</sup>)
 @snapend
 
 @snap[south byline span-100]
@@ -22,19 +25,19 @@ When surveyed 91% of scientists said that that using scientific software is impo
 
 ---
 
-@snap[west headline]
+@snap[west big-text]
 Reproducibility
 @snapend
 
-@snap[east headline]
+@snap[east big-text]
 Sustainability
 @snapend
 
-@snap[north headline]
+@snap[north big-text]
 Correctness
 @snapend
 
-@snap[snap-80]
+@snap[south snap-80]
 Good software engineering is required for all of the above<br>
 (not just good coding)
 @snapend
@@ -49,7 +52,6 @@ Modelling or Data Processing<br>It's all Important
 
 * Software Engineering is not just for projects with 1000's of lines of code
 * Not just the fiddly thing you put off doing at the end
-* What happens when it goes wrong - retractions :(
 
 ---
 
