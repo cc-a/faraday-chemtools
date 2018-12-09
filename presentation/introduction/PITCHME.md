@@ -12,8 +12,7 @@ Jeff Rothenberg
 ---
 
 @snap[south snap-80]
-Software engineering is the treatment (not the cure)<br>
-
+Software engineering is the treatment (not the cure)
 @snapend
 
 ---

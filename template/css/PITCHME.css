@@ -17,6 +17,13 @@
     font-size: 0.8em !important;
 }
 
+.under-title {
+    width: 100%;
+    height: 80%;
+    text-align: left;
+    font-size: 1em !important;
+}
+
 
 /* Split-Screen Template Styles */
 
@@ -60,6 +67,12 @@
     list-style-type: none;
     font-size: 0.8em;
 }
+
+.code-region li::before {
+    padding-top: 1.5em;
+}
+
+
 
 .list-content-concise li {
   font-size: 1em;

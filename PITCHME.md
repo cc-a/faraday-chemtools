@@ -1,13 +1,14 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Title Slide]
 
-@snap[north byline text-white span-90]
-Faraday Division Chemistry Software Tools Meeting<br>Modern Software Engineering for Physical Chemists:<br>Writing Sustainable Software*
+@snap[north span-90]
+@size[1.5em](Faraday Division Chemistry Software Tools Meeting)
+@size[1.25em](Modern Software Engineering for Physical Chemists:<br>Writing Sustainable Software*)
 @snapend
 
 @snap[south-west byline text-white]
 Dr. Christopher Cave-Ayland  
-@fa[twitter] @CCaveAyland
+@fa[twitter] @CCaveAyland  
 12/12/2018  
 @snapend
 

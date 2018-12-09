@@ -106,14 +106,13 @@ Unit tests
 - Separate from main code
 - Consider functional units of code in isolation
 @ulend
-
-```python
-function test_calculate_mass():
-    test_inputs = 0, 9.81, 19.62
-	test_outputs = 0, 1, 2
-	for input, output in test_inputs, test_outputs:
-	    assert output == calculate_mass(input)
-```
+@ul[code-region](false)
+* function test_calculate_mass():
+  * test_inputs = 0, 9.81, 19.62
+  * test_outputs = 0, 1, 2
+  * for input, output in test_inputs, test_outputs:
+    * assert output == calculate_mass(input)
+@ul
 @snapend
 
 ---
@@ -124,9 +123,24 @@ function test_calculate_mass():
 Integrated Development Environments
 @snapend
 
-* Boost productivity
 * Prevent mistakes
 * Integration with Version Control and Testing
+
+---
+@snap[north]
+@size[1.5em](Boost productivity and Avoid Mistakes)  
+@snapend
+
+@snap[south under-title]
+Code Completion  
+![Autocomplete](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
+snapend
+
+---
+
+@size[1.5em](Boost productivity and Avoid Mistakes)  
+Code Linting  
+![Linting]((https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif))
 
 ---
 
@@ -134,11 +148,16 @@ Integrated Development Environments
 Many options
 @snapend
 
-@snap[west split-screen-img]
+@snap[west span-35]
 ![Visual](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Visual_Studio_2012_logo_and_wordmark.svg/2000px-Visual_Studio_2012_logo_and_wordmark.svg.png)
 ![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png)
 @snapend
-@snap[east split-screen-img]
+
+@snap[midpoint span-30]
+![IntelliJ](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png)
+@snapend
+
+@snap[east span-35]
 ![Emacs](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emacs-logo.svg/2000px-Emacs-logo.svg.png)
 ![Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/274px-Eclipse-Luna-Logo.svg.png)
 @snapend
