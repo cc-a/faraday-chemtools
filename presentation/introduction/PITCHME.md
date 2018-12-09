@@ -37,7 +37,7 @@ Sustainability
 Correctness
 @snapend
 
-@snap[south snap-80]
+@snap[south span-100]
 Good software engineering is required for all of the above<br>
 (not just good coding)
 @snapend
@@ -75,7 +75,7 @@ Modelling or Data Processing<br>It's all Important
 
 @title[Scripts>Spreadsheets]
 
-@snap[north]
+@snap[north span-100]
 @size[1.5em](Programming > Spreadsheets)
 @snapend
 

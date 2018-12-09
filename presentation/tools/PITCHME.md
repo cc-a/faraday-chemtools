@@ -1,13 +1,39 @@
 @title[Tools you need to be using]
 
 @snap[north span-80]
-The essential tools of software engineering
+Aspects of Software Engineering
 @snapend
 
-@snap[midpoint under-title]
-1. Version Control
-2. Testing
-3. Interactive Development Environments
+<!-- @snap[midpoint under-title] -->
+<!-- @ol[](false) -->
+<!-- - Version Control -->
+<!-- - Testing -->
+<!-- - Interactive Development Environments -->
+<!-- @olend -->
+<!-- @snapend -->
+
+@snap[west]
+Version Control
+@snapend
+
+@snap[south]
+Interactive Development Environments
+@snapend
+
+@snap[midpoint]
+Documentation
+@snapend
+
+@snap[south-west]
+Maintenance
+@snapend
+
+@snap[south-east span-30 text-align:left]
+Design
+@snapend
+
+@snap[east]
+Testing
 @snapend
 
 ---
