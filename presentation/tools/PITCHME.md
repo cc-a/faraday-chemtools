@@ -12,8 +12,8 @@ Aspects of Software Engineering
 <!-- @olend -->
 <!-- @snapend -->
 
-@snap[west span-33]
-@box[bg-green text-white rounded box-style](Version Control)
+@snap[west span-33 box-style]
+@box[bg-green text-white rounded](Version Control)
 @snapend
 
 @snap[south span-33]
