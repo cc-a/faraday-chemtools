@@ -18,12 +18,12 @@
 
 .left {
     text-align: left;
-    /* padding-right: 2em; */
+    padding-left: 1em;
 }
 
 .right {
     text-align: right;
-    /* padding-right: 2em; */
+    padding-right: 1em;
 }
 
 .two-cols {
