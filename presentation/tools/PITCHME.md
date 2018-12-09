@@ -142,10 +142,10 @@ Code Completion
 @size[1.2em](Boost productivity and Avoid Mistakes)
 @snapend
 
-@snap[south under-title]
+<!-- @snap[south under-title] -->
 Code Linting  
 ![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
-@snapend
+<!-- @snapend -->
 
 ---
 
