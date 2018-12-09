@@ -12,27 +12,27 @@ Aspects of Software Engineering
 <!-- @olend -->
 <!-- @snapend -->
 
-@snap[west span-23 right]
-@css[right](Version Control)
+@snap[west span-33]
+@box[bg-green text-white rounded](Version Control)
 @snapend
 
-@snap[south]
-Interactive Development Environments
+@snap[south span-33]
+@Interactive Development Environments
 @snapend
 
-@snap[midpoint]
+@snap[midpoint span-33]
 Documentation
 @snapend
 
-@snap[south-west]
+@snap[south-west span-33]
 Maintenance
 @snapend
 
-@snap[south-east span-23 left]
+@snap[south-east]
 Design
 @snapend
 
-@snap[east]
+@snap[east span-33]
 Testing
 @snapend
 

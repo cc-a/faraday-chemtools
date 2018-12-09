@@ -26,6 +26,11 @@
     padding-right: 1em;
 }
 
+.box {
+    text-align: center;
+    
+}
+
 .two-cols {
     width: 48%;
     text-align: left;
