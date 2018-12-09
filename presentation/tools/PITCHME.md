@@ -17,7 +17,7 @@ Aspects of Software Engineering
 @snapend
 
 @snap[south span-33 box-style]
-Interactive Development Environments
+@box[bg-green text-white rounded]Interactive Development Environments
 @snapend
 
 @snap[midpoint span-33 box-style]
