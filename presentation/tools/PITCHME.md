@@ -13,7 +13,7 @@ Aspects of Software Engineering
 <!-- @snapend -->
 
 @snap[west span-23 right]
-Version Control
+@css[right](Version Control)
 @snapend
 
 @snap[south]
