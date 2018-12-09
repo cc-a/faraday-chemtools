@@ -28,8 +28,8 @@ Documentation
 Maintenance
 @snapend
 
-@snap[south-east span-50]
-@css[left](Design)
+@snap[south-east span-50 left]
+Design
 @snapend
 
 @snap[east]
