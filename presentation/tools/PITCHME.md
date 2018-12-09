@@ -127,20 +127,25 @@ Integrated Development Environments
 * Integration with Version Control and Testing
 
 ---
-@snap[north]
-@size[1.5em](Boost productivity and Avoid Mistakes)  
+@snap[north span-100]
+@size[1.2em](Boost productivity and Avoid Mistakes)
 @snapend
 
 @snap[south under-title]
 Code Completion  
 ![Autocomplete](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
-snapend
+@snapend
 
 ---
 
-@size[1.5em](Boost productivity and Avoid Mistakes)  
+@snap[north span-100]
+@size[1.2em](Boost productivity and Avoid Mistakes)
+@snapend
+
+@snap[south under-title]
 Code Linting  
-![Linting]((https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif))
+![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
+@snapend
 
 ---
 
