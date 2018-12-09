@@ -83,30 +83,32 @@ Testing
 (Some of the) Types of Testing
 @snapend
 
-@snap[west split-screen-text]
+@snap[west two-cols]
 Runtime tests  
 @ul[](false)
 - Performed as the code is executed
 - "Sanity checks" - make sure things are internally consistent
 - Check inputs as well as code
-@endul
+@ulend
 
-```python
+```text
 function calculate_mass(weight):
 	mass = weight / 9.81
 	if mass < 0:
 		Error - cannot have negative mass
 	return mass
 ```
+
 @snapend
 
-@snap[east split-screen-text]
+@snap[east two-cols]
 Unit tests  
 @ul[](false)
 - Separate from main code
 - Consider functional units of code in isolation
-@endul
-```python
+@ulend
+
+```text
 function test_calculate_mass():
     test_inputs = 0, 9.81, 19.62
 	test_outputs = 0, 1, 2
@@ -121,7 +123,7 @@ function test_calculate_mass():
 
 @snap[north span-80]
 Integrated Development Environments
-@spanend
+@snapend
 
 * Boost productivity
 * Prevent mistakes

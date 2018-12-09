@@ -4,7 +4,7 @@
 
 @snapend
 
-@snap[midpoint span-80]
+@snap[midpoint span-100]
 @css[headline](Digital information lasts forever... or five years, whichever comes first.)<br>
 Jeff Rothenberg
 @snapend

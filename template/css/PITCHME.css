@@ -11,6 +11,13 @@
 }
 
 
+.two-cols {
+    width: 48%;
+    text-algn: left;
+    font-size: 0.4em !important;
+}
+
+
 /* Split-Screen Template Styles */
 
 .split-screen-heading {
