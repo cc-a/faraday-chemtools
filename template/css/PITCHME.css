@@ -21,6 +21,11 @@
     /* padding-right: 2em; */
 }
 
+.right {
+    text-align: right;
+    /* padding-right: 2em; */
+}
+
 .two-cols {
     width: 48%;
     text-align: left;

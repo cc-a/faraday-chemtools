@@ -12,7 +12,7 @@ Aspects of Software Engineering
 <!-- @olend -->
 <!-- @snapend -->
 
-@snap[west]
+@snap[west span-23 right]
 Version Control
 @snapend
 
@@ -28,7 +28,7 @@ Documentation
 Maintenance
 @snapend
 
-@snap[south-east span-50 left]
+@snap[south-east span-23 left]
 Design
 @snapend
 
