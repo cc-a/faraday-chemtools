@@ -34,6 +34,7 @@
 .image-bullets img {
     width: 20%;
     float: left;
+    max-height: 15%;
 }
 /* Split-Screen Template Styles */
 
