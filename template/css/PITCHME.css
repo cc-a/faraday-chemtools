@@ -16,6 +16,11 @@
     width: 100%;
 }
 
+.left {
+    text-align: left;
+    padding-right: 2em;
+}
+
 .two-cols {
     width: 48%;
     text-align: left;
