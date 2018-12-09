@@ -21,7 +21,7 @@ Version Control
 <!-- <img src="http://phdcomics.com/comics/archive/phd101212s.gif" width="400px"> -->
 @snapend
 
-@snap[east split-screen-text]
+@snap[south-east split-screen-text]
 @ul[](false)
 - Reproducibility
   - Track what changes you make to your work and when
@@ -64,17 +64,80 @@ Documentation
 @snapend
 
 ---
+
 @title[Testing]
 
-* The goal of data analysis/modelling is to efficiently get to the *right* answer
-* Established as the best way to do this
-* Initial investment of time allows you to make changes more flexibly
+@snap[north headline span-60]
+Testing
+@snapend
+
+* The goal of data analysis/modelling is to get to the *right* answer
+* Testing is well established as fastest way to do this
 * Fundamental pillar of modern software engineering
+* Initial investment of time allows you to make changes more flexibly
+* Actual technical details vary between projects and languages
+
+---
+
+@snap[north-west byline]
+(Some of the) Types of Testing
+@snapend
+
+@snap[west split-screen-text]
+Runtime tests  
+@ul[](false)
+- Performed as the code is executed
+- "Sanity checks" - make sure things are internally consistent
+- Check inputs as well as code
+@endul
+
+```python
+function calculate_mass(weight):
+	mass = weight / 9.81
+	if mass < 0:
+		Error - cannot have negative mass
+	return mass
+```
+@snapend
+
+@snap[east split-screen-text]
+Unit tests  
+@ul[](false)
+- Separate from main code
+- Consider functional units of code in isolation
+@endul
+```python
+function test_calculate_mass():
+    test_inputs = 0, 9.81, 19.62
+	test_outputs = 0, 1, 2
+	for input, output in test_inputs, test_outputs:
+	    assert output == calculate_mass(input)
+```
+@snapend
 
 ---
 
 @title[IDEs]
 
-* Boost productivity. 
+@snap[north span-80]
+Integrated Development Environments
+@spanend
+
+* Boost productivity
 * Prevent mistakes
-* Integration of other tools
+* Integration with Version Control and Testing
+
+---
+
+@snap[north span-80]
+Many options
+@snapend
+
+@snap[west split-screen-img]
+![Visual](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Visual_Studio_2012_logo_and_wordmark.svg/2000px-Visual_Studio_2012_logo_and_wordmark.svg.png)
+![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png)
+@snapend
+@snap[east split-screen-img]
+![Emacs](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emacs-logo.svg/2000px-Emacs-logo.svg.png)
+![Eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/274px-Eclipse-Luna-Logo.svg.png)
+@snapend
