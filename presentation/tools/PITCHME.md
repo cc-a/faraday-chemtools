@@ -133,7 +133,8 @@ Integrated Development Environments
 @snapend
 
 @snap[south under-title]
-Code Completion  
+Code Completion<br>
+
 ![Autocomplete](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
 @snapend
 
@@ -144,7 +145,8 @@ Code Completion
 @snapend
 
 @snap[south under-title]
-Code Linting  
+Code Linting<br>
+
 ![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/eslint_warning.png)
 @snapend
 
