@@ -79,7 +79,7 @@ Testing
 
 ---
 
-@snap[north-west byline]
+@snap[north span-80]
 (Some of the) Types of Testing
 @snapend
 
@@ -91,7 +91,7 @@ Runtime tests
 - Check inputs as well as code
 @ulend
 
-```text
+```python
 function calculate_mass(weight):
 	mass = weight / 9.81
 	if mass < 0:
@@ -108,7 +108,7 @@ Unit tests
 - Consider functional units of code in isolation
 @ulend
 
-```text
+```python
 function test_calculate_mass():
     test_inputs = 0, 9.81, 19.62
 	test_outputs = 0, 1, 2
@@ -121,7 +121,7 @@ function test_calculate_mass():
 
 @title[IDEs]
 
-@snap[north span-80]
+@snap[north headline span-80]
 Integrated Development Environments
 @snapend
 
