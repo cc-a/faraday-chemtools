@@ -13,11 +13,11 @@ Aspects of Software Engineering
 <!-- @snapend -->
 
 @snap[west span-33]
-@box[bg-green text-white rounded](Version Control)
+@box[bg-green text-white rounded box-style](Version Control)
 @snapend
 
 @snap[south span-33]
-@Interactive Development Environments
+Interactive Development Environments
 @snapend
 
 @snap[midpoint span-33]

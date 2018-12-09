@@ -26,9 +26,8 @@
     padding-right: 1em;
 }
 
-.box {
-    text-align: center;
-    
+.box-style {
+    height: 33%;
 }
 
 .two-cols {
