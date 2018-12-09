@@ -11,6 +11,11 @@
 }
 
 
+.big-text {
+    font-size: 1.75em !important;
+    width: 100%;
+}
+
 .two-cols {
     width: 48%;
     text-align: left;
