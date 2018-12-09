@@ -7,7 +7,7 @@ Resources
 @snap[under-title south image-bullets]
 <p>
 ![SSI](https://www.software.ac.uk/themes/ssi/images/ssi_logo_with_name-small2.png) www.software.ac.uk<br>
-@size[0.5em](EPSRC funded organisation advocating for the importance of scientipfic software development)</p>
+@size[0.5em](EPSRC funded organisation advocating for scientific software development)</p>
 <p>
 ![Carpentries](https://www.nesi.org.nz/sites/default/files/media/software%20carpentry%20logo.png) www.software-carpentry.org<br>
 @size[0.5em](International grass roots organisation running training workshops for scientists)</p>

@@ -2,14 +2,14 @@
 @title[Title Slide]
 
 @snap[north span-90]
-@size[1.5em](Faraday Division Chemistry Software Tools Meeting)
-@size[1.25em](Modern Software Engineering for Physical Chemists:<br>Writing Sustainable Software*)
+@size[1.5em](Faraday Division Chemistry Software Tools Meeting)  
+@size[1.25em](Modern Software Engineering for Physical Chemists:<br>Writing Sustainable Software)
 @snapend
 
 @snap[south-west byline text-white]
 Dr. Christopher Cave-Ayland  
 @fa[twitter] @CCaveAyland  
-12/12/2018  
+12/12/2018
 @snapend
 
 ---?include=presentation/introduction/PITCHME.md

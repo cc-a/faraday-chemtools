@@ -11,7 +11,18 @@ Jeff Rothenberg
 
 ---
 
-@snap[south snap-80]
+@snap[midpoint snap-90]
+When surveyed 91% of scientists said that that using scientific software is important or very important for their own research  
+84% stated that developing scientific software is important or very important for their own research
+@snapend<sup>1</sup>
+
+@south[byline]
+1. J.E. Hannay et al., How Do Scientists Develop and Use Scientific Software?, Proc. ICSE Workshop Software Eng. for Computational Science and Eng., 2009, pp. 1-8
+@snapend
+
+---
+
+@snap[snap-80]
 Software engineering is the treatment (not the cure)
 @snapend
 
@@ -29,19 +40,19 @@ Modelling or Data Processing<br>It's all Important
 
 ---
 
-@snap[midpoint span-35]
-When it all goes wrong
+@snap[north span-80]
+@size[1.75em](When it all goes wrong)
 @snapend
 
-@snap[west span-35]
+@snap[west span-40]
 ![Excel](presentation/introduction/images/excel.png)
 @snapend
 
-@snap[east span-35]
+@snap[east span-40]
 ![Chang](presentation/introduction/images/chang.png)
 @snapend
 
-@snap[south span-30]
+@snap[south span-40]
 ![Plos](presentation/introduction/images/plos.png)
 @snapend
 

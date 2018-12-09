@@ -4,9 +4,11 @@
 The essential tools of software engineering
 @snapend
 
+@snap[midpoint under-title]
 1. Version Control
 2. Testing
 3. Interactive Development Environments
+@snapend
 
 ---
 
@@ -119,8 +121,8 @@ Unit tests
 
 @title[IDEs]
 
-@snap[north headline span-80]
-Integrated Development Environments
+@snap[north span-90]
+@size[1.75em](Integrated Development Environments)
 @snapend
 
 * Prevent mistakes
