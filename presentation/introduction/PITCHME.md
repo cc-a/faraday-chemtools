@@ -11,12 +11,12 @@ Jeff Rothenberg
 
 ---
 
-@snap[midpoint snap-90]
+@snap[midpoint span-90]
 When surveyed 91% of scientists said that that using scientific software is important or very important for their own research  
 84% stated that developing scientific software is important or very important for their own research
 @snapend<sup>1</sup>
 
-@south[byline]
+@snap[south byline]
 1. J.E. Hannay et al., How Do Scientists Develop and Use Scientific Software?, Proc. ICSE Workshop Software Eng. for Computational Science and Eng., 2009, pp. 1-8
 @snapend
 
