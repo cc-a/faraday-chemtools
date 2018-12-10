@@ -12,28 +12,28 @@ Aspects of Software Engineering
 <!-- @olend -->
 <!-- @snapend -->
 
-@snap[west span-33 box-style]
-@box[bg-green text-white rounded](Version Control)
+@snap[west box-style]
+@box[bg-blue text-white rounded](Version Control)
 @snapend
 
-@snap[south span-33 box-style]
-@box[bg-green text-white rounded]Interactive Development Environments
+@snap[south-west box-style]
+@box[bg-orange text-white rounded](Maintenance)
 @snapend
 
-@snap[midpoint span-33 box-style]
-Documentation
+@snap[midpoint box-style]
+@box[bg-orange text-white rounded](Documentation)
 @snapend
 
-@snap[south-west span-33 box-style]
-Maintenance
+@snap[south box-style]
+@box[bg-green text-white rounded](Interactive Development Environments)
 @snapend
 
 @snap[south-east box-style]
-Design
+@box[bg-blue text-white rounded](Design)
 @snapend
 
-@snap[east span-33 box-style]
-Testing
+@snap[east box-style]
+@box[bg-green text-white rounded](Testing)
 @snapend
 
 ---
