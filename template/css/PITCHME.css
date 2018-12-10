@@ -38,8 +38,10 @@
 
 .two-cols {
     width: 48%;
+    height: 75%;
     text-align: left;
     font-size: 0.8em !important;
+    vertical-align: top;
 }
 
 .under-title {
@@ -48,6 +50,7 @@
     text-align: left;
     font-size: 1em !important;
     padding-bottom: 1em;
+    vertical-align: middle;
 }
 
 .under-title img {
@@ -74,17 +77,21 @@
 }
 
 .split-screen-text {
-  width: 55%;
+  width: 54%;
   text-align: center;
   font-size: 0.8em !important;
+  height: 80%;
+  vertical-align: middle;
 }
 
 .split-screen-img {
-  width: 35%;
+  width: 40%;
 }
 
 .split-screen-img img {
-  border-radius: 8% !important;
+    border-radius: 8% !important;
+    display: block;
+    vertical-alignment: middle;
 }
 
 .split-screen-list li {

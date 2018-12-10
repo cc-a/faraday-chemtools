@@ -13,15 +13,15 @@ Aspects of Software Engineering
 <!-- @snapend -->
 
 @snap[west box-style]
-@box[bg-blue text-white rounded](Version Control)
+@box[bg-blue text-white rounded](<br>Version Control<br>)
 @snapend
 
 @snap[south-west box-style]
-@box[bg-orange text-white rounded](Maintenance)
+@box[bg-orange text-white rounded](<br>Maintenance<br>)
 @snapend
 
 @snap[midpoint box-style]
-@box[bg-orange text-white rounded](Documentation)
+@box[bg-orange text-white rounded](<br>Documentation<br>)
 @snapend
 
 @snap[south box-style]
@@ -29,11 +29,11 @@ Aspects of Software Engineering
 @snapend
 
 @snap[south-east box-style]
-@box[bg-blue text-white rounded](Design)
+@box[bg-blue text-white rounded](<br>Design<br>)
 @snapend
 
 @snap[east box-style]
-@box[bg-green text-white rounded](Testing)
+@box[bg-green text-white rounded](<br>Testing<br>)
 @snapend
 
 ---
@@ -65,29 +65,29 @@ Version Control
 Working Online
 @snapend
 
-@snap[midpoint span-30]
+@snap[midpoint span-40]
  ![Github](https://studyguide.itu.dk/~/media/studyguide/student-life/facilities-at-itu/it-facilities/github/github_logo.png?h=248&w=573&la=en)  
  ![Bitbucket](https://d301sr5gafysq2.cloudfront.net/6beed0228b70/img/logos/bitbucket/bitbucket-attribution-blue.svg)  
  ![Gitlab](https://cdn-images-1.medium.com/max/2000/1*A4gQU4Mtnz0YVNrl8pCwXg.png)
 @snapend
 
-@snap[west span-30]
+@snap[west span-25]
 Website hosting
 @snapend
 
-@snap[south span-40]
+@snap[south span-25]
 Presentations (including this one)
 @snapend
 
-@snap[east span-30]
+@snap[east span-25]
 Project Management Tools
 @snapend
 
-@snap[south-west span-30]
+@snap[south-west span-25]
 Testing
 @snapend
 
-@snap[south-east span-30]
+@snap[south-east span-25]
 Documentation
 @snapend
 
@@ -111,7 +111,7 @@ Testing
 (Some of the) Types of Testing
 @snapend
 
-@snap[west two-cols]
+@snap[south-west two-cols]
 Runtime tests  
 @ul[](false)
 - Performed as the code is executed
@@ -128,7 +128,7 @@ Runtime tests
 @ulend
 @snapend
 
-@snap[east two-cols]
+@snap[south-east two-cols]
 Unit tests  
 @ul[](false)
 - Separate from main code
@@ -145,14 +145,28 @@ Unit tests
 
 ---
 
+---?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
+
 @title[IDEs]
 
-@snap[north span-90]
+@snap[midpoint span-90]
 @size[1.75em](Integrated Development Environments)
+<br><br>
+@size[1.25em](Software that helps you write software)
 @snapend
 
-* Prevent mistakes
-* Integration with Version Control and Testing
+@snap[south-west span-33]
+Boost Productivity
+@snapend
+
+@snap[south span-33]
+Avoid Mistakes
+@snapend
+
+@snap[south-east span-33]
+Integration with<br>
+other tools
+@snapend
 
 ---
 
