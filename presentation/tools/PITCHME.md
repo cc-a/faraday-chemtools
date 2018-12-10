@@ -98,12 +98,11 @@ Working Online
 @snapend
 
 @snap[north-east span-40]
-@quote[My codes not good enough]
+@quote[My code isn't good enough]
 @snapend
 
 @snap[south fragment span-100]
-@quote[Fine, I'll go first]
-<br><br>
+@quote[OK, I'll go first]
 @snapend
 
 ---
