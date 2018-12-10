@@ -26,16 +26,22 @@ Jeff Rothenberg
 
 ---
 
-@snap[west span-50]
-@box[bg-blue text-white rounded](Reproducibility)
+@snap[north-west span-30]
+<br><br><br>
+@box[bg-blue text-white rounded](<br>Reproducibility<br><br>)
 @snapend
 
-@snap[east span-50]
-@box[bg-orange text-white rounded](Sustainability)
+@snap[north-east span-30]
+<br><br><br>
+@box[bg-orange text-white rounded](<br>Sustainability<br><br>)
 @snapend
 
-@snap[north span-50]
-@box[bg-green text-white rounded](Correctness)
+@snap[north span-30]
+@box[bg-green text-white rounded](<br>Correctness<br><br>)
+@snapend
+
+@snap[midpoint span-30]
+@box[bg-purple text-white rounded](<br>Portability<br><br>)
 @snapend
 
 @snap[south span-100]
