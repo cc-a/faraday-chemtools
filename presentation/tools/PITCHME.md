@@ -118,7 +118,7 @@ Runtime tests
 - "Sanity checks" - make sure things are internally consistent
 - Check inputs as well as code
 @ulend
-
+<br><br>
 @ul[code-region](false)
 * function calculate_mass(weight):
   * mass = weight / 9.81
@@ -134,16 +134,15 @@ Unit tests
 - Separate from main code
 - Consider functional units of code in isolation
 @ulend
+<br><br>
 @ul[code-region](false)
 * function test_calculate_mass():
-  * test_inputs = 0, 9.81, 19.62
-  * test_outputs = 0, 1, 2
-  * for input, output in test_inputs, test_outputs:
-    * assert output == calculate_mass(input)
+  * inputs = 0, 9.81, 19.62
+  * outputs = 0, 1, 2
+  * for i, o in inputs, outputs:
+  *   assert o == calculate_mass(i)
 @ulend
 @snapend
-
----
 
 ---?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
 
