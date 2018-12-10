@@ -119,7 +119,7 @@ Working Online
 Testing
 @snapend
 
-@snap[midpoint span-50]
+@snap[midpoint span-70]<br>
 @img[](https://i.gifer.com/PDeN.gif)
 @snapend
 
