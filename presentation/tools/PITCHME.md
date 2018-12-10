@@ -94,15 +94,15 @@ Working Online
 ---
 
 @snap[north-west span-40]
-@quote(But I don't want people to see my messy code)
+@quote[But I don't want people to see my messy code]
 @snapend
 
 @snap[north-east span-40]
-@quote(My codes not good enough)
+@quote[My codes not good enough]
 @snapend
 
 @snap[south fragment span-100]
-@quote(Fine, I'll go first)
+@quote[Fine, I'll go first]
 <br><br>
 @snapend
 
