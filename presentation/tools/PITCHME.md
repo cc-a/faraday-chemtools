@@ -105,13 +105,25 @@ Working Online
 @quote[It's not finished yet]
 @snapend
 
-@snap[south fragment span-50]
+@snap[south fragment span-75 big-text]
 @box[bg-green text-white](Fine, I'll go first)
 @snapend
 
 ---
 
 @title[Testing]
+
+
+
+@snap[north headline span-60]
+Testing
+@snapend
+
+@snap[south under-title]
+![Wrong](https://i.gifer.com/PDeN.gif)
+@snapend
+
+---
 
 @snap[north headline span-60]
 Testing
