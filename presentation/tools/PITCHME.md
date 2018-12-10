@@ -65,14 +65,14 @@ Version Control
 Working Online
 @snapend
 
-@snap[midpoint span-35]
+@snap[midpoint span-30]
  ![Github](https://studyguide.itu.dk/~/media/studyguide/student-life/facilities-at-itu/it-facilities/github/github_logo.png?h=248&w=573&la=en)  
  ![Bitbucket](https://d301sr5gafysq2.cloudfront.net/6beed0228b70/img/logos/bitbucket/bitbucket-attribution-blue.svg)  
  ![Gitlab](https://cdn-images-1.medium.com/max/2000/1*A4gQU4Mtnz0YVNrl8pCwXg.png)
 @snapend
 
 @snap[west span-25]
-@box[bg-green text-white](Website hosting)
+@box[bg-green text-white](Website hosting<br><br>)
 @snapend
 
 @snap[south span-35]
@@ -83,11 +83,11 @@ Working Online
 @box[bg-blue text-white](Project Management Tools)
 @snapend
 
-@snap[south-west span-25]
+@snap[south-west span-30]
 @box[bg-orange text-white](Testing)
 @snapend
 
-@snap[south-east span-25]
+@snap[south-east span-30]
 @box[bg-green text-white](Documentation)
 @snapend
 
