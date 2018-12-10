@@ -120,7 +120,7 @@ Testing
 @snapend
 
 @snap[south under-title]
-![Wrong](https://i.gifer.com/PDeN.gif)
+@img[](https://i.gifer.com/PDeN.gif)
 @snapend
 
 ---
