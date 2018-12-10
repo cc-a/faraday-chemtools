@@ -101,8 +101,12 @@ Working Online
 @quote[My code isn't good enough]
 @snapend
 
-@snap[south fragment span-100]
-@quote[OK, I'll go first]
+@snap[midpoint span-40]
+@quote[It's not finished yet]
+@snapend
+
+@snap[south fragment span-50]
+@box[bg-green text-white](Fine, I'll go first)
 @snapend
 
 ---
