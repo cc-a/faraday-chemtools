@@ -93,6 +93,21 @@ Documentation
 
 ---
 
+@snap[north-west span-40]
+@quote(But I don't want people to see my messy code)
+@snapend
+
+@snap[north-east span-40]
+@quote(My codes not good enough)
+@snapend
+
+@snap[south fragment span-100]
+@quote(Fine, I'll go first)
+<br><br>
+@snapend
+
+---
+
 @title[Testing]
 
 @snap[north headline span-60]

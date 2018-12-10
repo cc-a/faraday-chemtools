@@ -1,3 +1,4 @@
+---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
 @snap[north span-80]
@@ -9,7 +10,7 @@
 Jeff Rothenberg
 @snapend
 
----
+---?color=linear-gradient(to right, #c02425, #f0cb35)
 
 @snap[north span-100]
 @size[1em](When surveyed 91% of scientists said that that using scientific software is important or very important for their own research)
