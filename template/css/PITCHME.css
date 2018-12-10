@@ -80,7 +80,7 @@
   width: 54%;
   text-align: center;
   font-size: 0.8em !important;
-  height: 80%;
+  height: 70%;
   vertical-align: middle;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .split-screen-img img {
-    border-radius: 8% !important;
+    border-radius: 3% !important;
     display: block;
     vertical-alignment: middle;
 }

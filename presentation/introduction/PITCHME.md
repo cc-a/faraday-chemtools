@@ -25,15 +25,15 @@ Jeff Rothenberg
 
 ---
 
-@snap[west big-text]
+@snap[west span-50]
 @box[bg-blue text-white rounded](Reproducibility)
 @snapend
 
-@snap[east big-text]
+@snap[east span-50]
 @box[bg-orange text-white rounded](Sustainability)
 @snapend
 
-@snap[north big-text]
+@snap[north span-50]
 @box[bg-green text-white rounded](Correctness)
 @snapend
 

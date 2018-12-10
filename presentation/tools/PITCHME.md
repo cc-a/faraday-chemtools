@@ -13,15 +13,15 @@ Aspects of Software Engineering
 <!-- @snapend -->
 
 @snap[west box-style]
-@box[bg-blue text-white rounded](<br>Version Control<br>)
+@box[bg-blue text-white rounded](<br>Version Control<br><br>)
 @snapend
 
 @snap[south-west box-style]
-@box[bg-orange text-white rounded](<br>Maintenance<br>)
+@box[bg-orange text-white rounded](<br>Maintenance<br><br>)
 @snapend
 
 @snap[midpoint box-style]
-@box[bg-orange text-white rounded](<br>Documentation<br>)
+@box[bg-orange text-white rounded](<br>Documentation<br><br>)
 @snapend
 
 @snap[south box-style]
@@ -29,11 +29,11 @@ Aspects of Software Engineering
 @snapend
 
 @snap[south-east box-style]
-@box[bg-blue text-white rounded](<br>Design<br>)
+@box[bg-blue text-white rounded](<br>Design<br><br>)
 @snapend
 
 @snap[east box-style]
-@box[bg-green text-white rounded](<br>Testing<br>)
+@box[bg-green text-white rounded](<br>Testing<br><br>)
 @snapend
 
 ---
