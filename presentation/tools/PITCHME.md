@@ -129,11 +129,13 @@ Testing
 Testing
 @snapend
 
-* The goal of data analysis/modelling is to get to the *right* answer
-* Testing is well established as fastest way to do this
-* Fundamental pillar of modern software engineering
-* Initial investment of time allows you to make changes more flexibly
-* Actual technical details vary between projects and languages
+@ul[]
+- The goal of data analysis/modelling is to get to the **right** answer
+- Testing is well established as fastest way to do this
+- Fundamental pillar of modern software engineering
+- Initial investment of time gives confidence to make changes later
+- Actual technical details vary between projects and languages
+@ulend
 
 ---
 
