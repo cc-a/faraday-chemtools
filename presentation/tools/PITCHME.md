@@ -184,10 +184,10 @@ Testing
 @snap[midpoint span-90]
 @size[1.75em](Integrated Development Environments)
 <br><br>
-@size[1.25em](Software that helps you write software)
+@size[1.2em](**Software that helps you write software**)
 @snapend
 
-@snap[south-west span-28]
+@snap[south-west span-25]
 Boost Productivity
 @snapend
 

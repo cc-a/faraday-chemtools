@@ -90,11 +90,11 @@ Modelling or Data Processing<br>It's all Important
 @size[1.5em](Programming > Spreadsheets)
 @snapend
 
-@snap[west span-48]
+@snap[west span-50]
 ![Excel](presentation/introduction/images/excel_cross.png)
 @snapend
 
-@snap[east span-48]
+@snap[east span-50]
 @ul[]
 - Does not support software engineering
 - Poor interoperability
