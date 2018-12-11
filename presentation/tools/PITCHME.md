@@ -1,6 +1,6 @@
 @title[Tools you need to be using]
 
-@snap[north span-80]
+@snap[north span-100 big-text]
 Aspects of Software Engineering
 @snapend
 
@@ -40,7 +40,7 @@ Aspects of Software Engineering
 
 @title[Version Control]
 
-@snap[north headline span-80]
+@snap[north headline span-100]
 Version Control
 @snapend
 
@@ -61,7 +61,7 @@ Version Control
 
 ---
 
-@snap[north headline span-80]
+@snap[north headline span-100]
 Working Online
 @snapend
 
@@ -130,8 +130,8 @@ Testing
 @snapend
 
 @ul[]
-- The goal of data analysis/modelling is to get to the **right** answer
-- Testing is well established as fastest way to do this
+- If you want to get the **right** answer...
+- testing is the fastest way.
 - Fundamental pillar of modern software engineering
 - Initial investment of time gives confidence to make changes later
 - Actual technical details vary between projects and languages
@@ -139,11 +139,11 @@ Testing
 
 ---
 
-@snap[north span-80]
+@snap[north span-100 big-text]
 (Some of the) Types of Testing
 @snapend
 
-@snap[south-west two-cols]
+@snap[south-west two-cols fragment]
 Runtime tests  
 @ul[](false)
 - Performed as the code is executed
@@ -160,7 +160,7 @@ Runtime tests
 @ulend
 @snapend
 
-@snap[south-east two-cols]
+@snap[south-east two-cols fragment]
 Unit tests  
 @ul[](false)
 - Separate from main code
@@ -176,7 +176,7 @@ Unit tests
 @ulend
 @snapend
 
----?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
+--- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @title[IDEs]
 
@@ -199,7 +199,7 @@ Integration with<br>
 other tools
 @snapend
 
----?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
+--- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
@@ -210,7 +210,7 @@ Code Completion<br>
 ![Autocomplete](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
 @snapend
 
----?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
+--- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
@@ -221,7 +221,7 @@ Code Linting<br>
 ![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/eslint_warning.png)
 @snapend
 
----?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
+--- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
@@ -232,7 +232,7 @@ Integrated Testing<br>
 ![Linting](https://www.jetbrains.com/ruby/features/screenshots/testing/testing_ui@2x.png)
 @snapend
 
----?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg
+--- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-80]
 Many options

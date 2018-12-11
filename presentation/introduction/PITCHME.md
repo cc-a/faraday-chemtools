@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+--- <!-- ?color=linear-gradient(to right, #c02425, #f0cb35) -->
 @title[Introduction]
 
 @snap[north span-80]
@@ -10,7 +10,7 @@
 Jeff Rothenberg
 @snapend
 
----?color=linear-gradient(to right, #c02425, #f0cb35)
+--- <!-- ?color=linear-gradient(to right, #c02425, #f0cb35) -->
 
 @snap[north span-100]
 @size[1em](When surveyed 91% of scientists said that that using scientific software is important or very important for their own research)
@@ -44,7 +44,7 @@ Jeff Rothenberg
 @box[bg-purple text-white rounded](<br>Portability<br><br>)
 @snapend
 
-@snap[south span-100]
+@snap[south span-70]
 Good software engineering is required for all of the above<br>
 (not just good coding)
 @snapend
@@ -86,11 +86,19 @@ Modelling or Data Processing<br>It's all Important
 @size[1.5em](Programming > Spreadsheets)
 @snapend
 
-@snap[south under-title]
-@ul[](false)
-- OK (just) for simple 2D data
-- Static and isolated, difficult to combine into larger workflows/programs
-- Coding gives you flexibility + access to enormous quantity of libraries/prior work
-- https://www.software.ac.uk/blog/2017-09-06-journey-reproducibility-excel-pandas
+@snap[west two-cols]
+![Excel](presentation/introduction/images/cross.png)
+@snapend
+
+@snap[south-east two-cols]
+@ul[]
+- Does not support software engineering
+- Poor interoperability
+- Limited selection of analyses
+- Proprietary
 @ulend
+@snapend
+
+@snap[south fragment]
+https://www.software.ac.uk/blog/2017-09-06-journey-reproducibility-excel-pandas
 @snapend

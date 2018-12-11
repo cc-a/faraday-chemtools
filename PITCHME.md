@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+--- <!-- ?color=linear-gradient(to right, #c02425, #f0cb35) -->
 @title[Title Slide]
 
 @snap[north span-90]
@@ -12,7 +12,7 @@
 @snap[south-west byline text-white]
 Dr. Christopher Cave-Ayland  
 @fa[twitter] @CCaveAyland  
-12/12/2018
+12/12/2018 - https://gitpitch.com/cc-a/faraday-chemtools/master
 @snapend
 
 ---?include=presentation/introduction/PITCHME.md
