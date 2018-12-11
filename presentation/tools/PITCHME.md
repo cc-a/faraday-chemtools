@@ -72,23 +72,23 @@ Working Online
 @snapend
 
 @snap[west span-25]
-@box[bg-green text-white](Website hosting<br><br>)
+@box[bg-green text-white rounded](Website hosting<br><br>)
 @snapend
 
 @snap[south span-35]
-@box[bg-blue text-white](Presentations (including this one))
+@box[bg-blue text-white rounded](Presentations (this one))
 @snapend
 
 @snap[east span-25]
-@box[bg-blue text-white](Project Management Tools)
+@box[bg-blue text-white rounded](Project Management Tools)
 @snapend
 
 @snap[south-west span-30]
-@box[bg-orange text-white](Testing)
+@box[bg-orange text-white rounded](Testing)
 @snapend
 
 @snap[south-east span-30]
-@box[bg-green text-white](Documentation)
+@box[bg-green text-white rounded](Documentation)
 @snapend
 
 ---
@@ -143,7 +143,7 @@ Testing
 (Some of the) Types of Testing
 @snapend
 
-@snap[south-west two-cols fragment]
+@snap[south-west two-cols]
 **Runtime tests**  
 @ul[]
 - Performed as the code is executed
@@ -160,7 +160,7 @@ Testing
 @ulend
 @snapend
 
-@snap[south-east two-cols fragment]
+@snap[south-east two-cols]
 **Unit tests**  
 @ul[]
 - Separate from main code
@@ -187,7 +187,7 @@ Testing
 @size[1.25em](Software that helps you write software)
 @snapend
 
-@snap[south-west span-33]
+@snap[south-west span-28]
 Boost Productivity
 @snapend
 
