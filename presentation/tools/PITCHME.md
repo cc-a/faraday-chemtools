@@ -145,13 +145,13 @@ Testing
 
 @snap[south-west two-cols fragment]
 **Runtime tests**  
-@ul[](false)
+@ul[]
 - Performed as the code is executed
 - "Sanity checks" - make sure things are internally consistent
 - Check inputs as well as code
 @ulend
 <br><br>
-@ul[code-region](false)
+@ul[code-region fragment](false)
 * function calculate_mass(weight):
   * mass = weight / 9.81
   * if mass < 0:
@@ -162,12 +162,12 @@ Testing
 
 @snap[south-east two-cols fragment]
 **Unit tests**  
-@ul[](false)
+@ul[]
 - Separate from main code
 - Consider functional units of code in isolation
 @ulend
 <br><br>
-@ul[code-region](false)
+@ul[code-region fragment](false)
 * function test_calculate_mass():
   * inputs = 0, 9.81, 19.62
   * outputs = 0, 1, 2
