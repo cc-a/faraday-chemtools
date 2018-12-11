@@ -11,10 +11,11 @@
 @size[1.25em](Modern Software Engineering for Physical Chemists:<br>Writing Sustainable Software)
 @snapend
 
-@snap[south-west byline text-white]
+@snap[south-west byline]
 Dr. Christopher Cave-Ayland  
 @fa[twitter] @CCaveAyland  
-12/12/2018 - https://gitpitch.com/cc-a/faraday-chemtools/master
+12/12/2018  
+https://gitpitch.com/cc-a/faraday-chemtools/master
 @snapend
 
 ---?include=presentation/introduction/PITCHME.md
