@@ -87,7 +87,7 @@ Modelling or Data Processing<br>It's all Important
 @snapend
 
 @snap[west two-cols]
-![Excel](presentation/introduction/images/cross.png)
+![Excel](presentation/introduction/images/excel_cross.png)
 @snapend
 
 @snap[south-east two-cols]
@@ -99,6 +99,6 @@ Modelling or Data Processing<br>It's all Important
 @ulend
 @snapend
 
-@snap[south fragment]
+@snap[south fragment byline]
 https://www.software.ac.uk/blog/2017-09-06-journey-reproducibility-excel-pandas
 @snapend

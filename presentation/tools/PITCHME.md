@@ -139,7 +139,7 @@ Testing
 
 ---
 
-@snap[north span-100 big-text]
+@snap[north big-text]
 (Some of the) Types of Testing
 @snapend
 
@@ -176,7 +176,8 @@ Unit tests
 @ulend
 @snapend
 
---- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
+---
+<!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @title[IDEs]
 
@@ -199,7 +200,8 @@ Integration with<br>
 other tools
 @snapend
 
---- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
+---
+<!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
@@ -221,7 +223,8 @@ Code Linting<br>
 ![Linting](https://code.visualstudio.com/assets/docs/languages/javascript/eslint_warning.png)
 @snapend
 
---- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
+--- 
+<!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
@@ -232,7 +235,9 @@ Integrated Testing<br>
 ![Linting](https://www.jetbrains.com/ruby/features/screenshots/testing/testing_ui@2x.png)
 @snapend
 
---- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
+---
+
+<!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-80]
 Many options

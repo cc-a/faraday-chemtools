@@ -16,6 +16,11 @@
     width: 100%;
 }
 
+.bigger-text {
+    font-size: 1.33em !important;
+    width: 100%;
+}
+
 .left {
     text-align: left;
     padding-left: 1em;
