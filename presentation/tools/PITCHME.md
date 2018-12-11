@@ -139,12 +139,12 @@ Testing
 
 ---
 
-@snap[north big-text]
+@snap[north bigger-text]
 (Some of the) Types of Testing
 @snapend
 
 @snap[south-west two-cols fragment]
-Runtime tests  
+**Runtime tests**  
 @ul[](false)
 - Performed as the code is executed
 - "Sanity checks" - make sure things are internally consistent
@@ -161,7 +161,7 @@ Runtime tests
 @snapend
 
 @snap[south-east two-cols fragment]
-Unit tests  
+**Unit tests**  
 @ul[](false)
 - Separate from main code
 - Consider functional units of code in isolation
@@ -212,7 +212,8 @@ Code Completion<br>
 ![Autocomplete](https://code.visualstudio.com/assets/docs/languages/javascript/javascript_intellisense.gif)
 @snapend
 
---- <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
+---
+<!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]
 @size[1.2em](Boost productivity and Avoid Mistakes)
@@ -224,6 +225,7 @@ Code Linting<br>
 @snapend
 
 --- 
+
 <!-- ?image=https://www.pptgrounds.com/wp-content/uploads/2012/12/Blue-Tech-Circles-Powerpoint-Technology-Backgrounds-1024x768.jpg -->
 
 @snap[north span-100]

@@ -1,4 +1,6 @@
---- <!-- ?color=linear-gradient(to right, #c02425, #f0cb35) -->
+---
+
+<!-- ?color=linear-gradient(to right, #c02425, #f0cb35) -->
 @title[Title Slide]
 
 @snap[north span-90]
