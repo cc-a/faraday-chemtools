@@ -173,7 +173,7 @@ Testing
   * outputs = 0, 1, 2
   * for i, o in inputs, outputs:
 
-	  * assert o == calculate_mass(i)
+    * assert o == calculate_mass(i)
 @ulend
 @snapend
 
