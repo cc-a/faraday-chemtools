@@ -154,8 +154,8 @@ Testing
 @ul[code-region fragment](false)
 * function calculate_mass(weight):
   * mass = weight / 9.81
-  * if mass < 0:
-    * Error - cannot have negative mass
+  * if (mass < 0) {
+    * Error - cannot have negative mass}
   * return mass
 @ulend
 @snapend
@@ -171,8 +171,8 @@ Testing
 function test_calculate_mass():
 * inputs = 0, 9.81, 19.62
 * outputs = 0, 1, 2
-* for i, o in inputs, outputs:
-  * <em>assert o == calculate_mass(i)</em>
+* for i, o in inputs, outputs {
+  * assert o == calculate_mass(i)}
 @ulend
 @snapend
 
