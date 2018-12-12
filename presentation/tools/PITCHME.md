@@ -172,8 +172,7 @@ Testing
   * inputs = 0, 9.81, 19.62
   * outputs = 0, 1, 2
   * for i, o in inputs, outputs:
-
-  *    assert o == calculate_mass(i)
+  *     <em>assert o == calculate_mass(i)</em>
 @ulend
 @snapend
 
