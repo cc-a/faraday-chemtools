@@ -63,7 +63,7 @@ Whether you model full time or need to do a bit of data analysis
 @snapend
 
 @snap[south-west span-50]
-Whether tens of lines of code
+For tens of lines of code
 ![Stuggling](http://wyndhurstcounselingcenter.com/wp-content/uploads/wyndhurst-counseling-young-man-sexual-addiction-400.jpg)
 @snapend
 
