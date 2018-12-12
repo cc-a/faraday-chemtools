@@ -57,12 +57,23 @@ Good software engineering is required for all of the above<br>
 
 <!-- @title[Data Processing is Important] -->
 
-@snap[north span-80]
-Modelling or Data Processing<br>It's all Important
+@snap[north span-100]
+@size[1.2em](Everybody Needs Software Engineering)<br><br>
+Whether you write 10s of lines of code or 10s of thousands
+<br><br>
+Whether you model full time or need to do a bit of data analysis
 @snapend
 
-* Software Engineering is not just for projects with 1000's of lines of code
-* Not just the fiddly thing you put off doing at the end
+@snap[south-west span-50]
+![Nerd](https://s3.amazonaws.com/media.eremedia.com/uploads/2017/07/pt.jpg)
+@snapend
+
+@snap[south-east span-50]
+![Stuggling](http://wyndhurstcounselingcenter.com/wp-content/uploads/wyndhurst-counseling-young-man-sexual-addiction-400.jpg)
+@snapend
+
+<!-- * Software Engineering is not just for projects with 1000's of lines of code -->
+<!-- * Not just the fiddly thing you put off doing at the end -->
 
 ---
 
