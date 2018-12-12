@@ -53,6 +53,7 @@ Good software engineering is required for all of the above<br>
 (not just good coding)
 @snapend
 
+
 ---
 
 <!-- @title[Data Processing is Important] -->
@@ -74,25 +75,6 @@ or for thousands
 
 <!-- * Software Engineering is not just for projects with 1000's of lines of code -->
 <!-- * Not just the fiddly thing you put off doing at the end -->
-
----
-
-@snap[north span-80]
-@size[1.75em](When it all goes wrong)
-@snapend
-
-@snap[west span-40]
-![Excel](presentation/introduction/images/excel.png)
-@snapend
-
-@snap[east span-40]
-![Chang](presentation/introduction/images/chang.png)
-@snapend
-
-@snap[south span-40]
-![Plos](presentation/introduction/images/plos.png)
-@snapend
-
 ---
 
 @title[Scripts>Spreadsheets]
@@ -117,3 +99,22 @@ or for thousands
 @snap[south fragment byline]
 https://www.software.ac.uk/blog/2017-09-06-journey-reproducibility-excel-pandas
 @snapend
+
+---
+
+@snap[north span-80]
+@size[1.75em](When it all goes wrong)
+@snapend
+
+@snap[west span-40]
+![Excel](presentation/introduction/images/excel.png)
+@snapend
+
+@snap[east span-40]
+![Chang](presentation/introduction/images/chang.png)
+@snapend
+
+@snap[south span-40]
+![Plos](presentation/introduction/images/plos.png)
+@snapend
+
