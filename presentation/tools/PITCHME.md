@@ -168,11 +168,11 @@ Testing
 @ulend
 <br><br>
 @ul[code-region fragment](false)
-* function test_calculate_mass():
-  * inputs = 0, 9.81, 19.62
-  * outputs = 0, 1, 2
-  * for i, o in inputs, outputs:
-  *     <em>assert o == calculate_mass(i)</em>
+function test_calculate_mass():
+* inputs = 0, 9.81, 19.62
+* outputs = 0, 1, 2
+* for i, o in inputs, outputs:
+  * <em>assert o == calculate_mass(i)</em>
 @ulend
 @snapend
 
